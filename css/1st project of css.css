@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(255, 98, 0);
+}
+h2{
+    color: blue;
+}
+h1{
+   
+    background-color: greenyellow;
+}
+h6{
+    color: blue;
+}
+h4{
+    color: aliceblue;
+}
+h5{
+    color: green;
+}
+ul{
+    color: azure;
+    a29{
+        color: yellow;
+    }
+    a30{
+        color: purple;
+    }
+}
+
+    .bluecolor{
+        color: blue;
+    }
+    .redcolor{
+        color: red;
+    }
